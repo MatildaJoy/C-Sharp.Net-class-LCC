@@ -1,0 +1,6 @@
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\bin\Debug\ExtraWork2.exe.config
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\bin\Debug\ExtraWork2.exe
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\bin\Debug\ExtraWork2.pdb
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\obj\Debug\ExtraWork2.csprojResolveAssemblyReference.cache
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\obj\Debug\ExtraWork2.exe
+c:\users\matildabrumwell\documents\visual studio 2015\Projects\ExtraWork2\ExtraWork2\obj\Debug\ExtraWork2.pdb
