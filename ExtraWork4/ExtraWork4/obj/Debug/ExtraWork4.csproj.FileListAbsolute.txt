@@ -1,0 +1,7 @@
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\bin\Debug\ExtraWork4.exe.config
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\bin\Debug\ExtraWork4.exe
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\bin\Debug\ExtraWork4.pdb
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\obj\Debug\ExtraWork4.csprojResolveAssemblyReference.cache
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\obj\Debug\ExtraWork4.csproj.CoreCompileInputs.cache
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\obj\Debug\ExtraWork4.exe
+C:\Users\matildabrumwell\source\repos\ExtraWork4\ExtraWork4\obj\Debug\ExtraWork4.pdb
